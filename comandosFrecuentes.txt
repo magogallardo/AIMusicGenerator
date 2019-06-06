@@ -1,0 +1,7 @@
+th train.lua -data_dir data/some_folder -rnn_size 512 -num_layers 2 -dropout 0.5
+
+
+//Entrenar, de dónde, de qué forma, cada cuando samplear
+th train.lua -data_dir data/textfiles -gpuid -1 -eval_val_every 100
+//Samplear con el entrenamiento
+th sample.lua cv/some_checkpoint.t7 -gpuid -1
