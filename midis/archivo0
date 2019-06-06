@@ -12,11 +12,7 @@
 2, 0, MIDI_port, 0
 2, 0, Title_t, "Chopin - Nocturne Op.9,1"
 2, 0, Program_c, 0, 0
-2, 326, Control_c, 0, 91, 80
 2, 343, Note_on_c, 0, 82, 67
-2, 409, Control_c, 0, 64, 32
-2, 422, Control_c, 0, 64, 117
-2, 434, Control_c, 0, 64, 127
 2, 463, Note_on_c, 0, 84, 78
 2, 542, Note_on_c, 0, 85, 70
 2, 545, Note_on_c, 0, 84, 0
@@ -29,12 +25,7 @@
 2, 772, Note_on_c, 0, 82, 0
 2, 833, Note_on_c, 0, 46, 43
 2, 844, Note_on_c, 0, 78, 0
-2, 845, Control_c, 0, 64, 109
 2, 852, Note_on_c, 0, 77, 52
-2, 857, Control_c, 0, 64, 13
-2, 870, Control_c, 0, 64, 0
-2, 883, Control_c, 0, 64, 73
-2, 896, Control_c, 0, 64, 127
 2, 911, Note_on_c, 0, 46, 0
 2, 947, Note_on_c, 0, 53, 45
 2, 968, Note_on_c, 0, 77, 0
@@ -53,10 +44,6 @@
 2, 1256, Note_on_c, 0, 53, 0
 2, 1326, Note_on_c, 0, 77, 74
 2, 1328, Note_on_c, 0, 46, 51
-2, 1331, Control_c, 0, 64, 37
-2, 1344, Control_c, 0, 64, 0
-2, 1357, Control_c, 0, 64, 32
-2, 1370, Control_c, 0, 64, 127
 2, 1391, Note_on_c, 0, 46, 0
 2, 1427, Note_on_c, 0, 53, 45
 2, 1445, Note_on_c, 0, 53, 0
@@ -77,14 +64,9 @@
 2, 1695, Note_on_c, 0, 53, 42
 2, 1707, Note_on_c, 0, 53, 0
 2, 1742, Note_on_c, 0, 72, 0
-2, 1754, Control_c, 0, 64, 84
 2, 1755, Note_on_c, 0, 73, 70
 2, 1762, Note_on_c, 0, 46, 49
-2, 1767, Control_c, 0, 64, 0
-2, 1780, Control_c, 0, 64, 9
-2, 1793, Control_c, 0, 64, 125
 2, 1797, Note_on_c, 0, 46, 0
-2, 1806, Control_c, 0, 64, 127
 2, 1821, Note_on_c, 0, 73, 0
 2, 1834, Note_on_c, 0, 53, 51
 2, 1886, Note_on_c, 0, 53, 0
